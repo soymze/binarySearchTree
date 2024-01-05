@@ -7,9 +7,9 @@ Proje 3
 
 root=7<br>
          <pre>               [5]<br>
-                       [1]-[7]<br>
-                   [0]-[2] [3]-[8]<br>
-                  *-* *-[6]*-[9][4]-*<br></pre> 
+                           [1]-[7]<br>
+                        [0]-[2] [3]-[8]<br>
+                        *-* *-[6]*-[9][4]-*<br></pre> 
 
 not: arasında tire işareti olanlar aynı node'un çocukları,
       * işareti ise karışıklık olmaması açısından düğümlerin artık bittiği yerleri belirtiyor.
